@@ -3,11 +3,11 @@
 ## Installation
 
 ```bash
-yarn add @antipodes-medical/back-to-top
+yarn add @opentech0/back-to-top
 ```
 
 ```javascript
-import '@antipodes-medical/back-to-top';
+import '@opentech0/back-to-top';
 ```
 
 ## Utilisation
